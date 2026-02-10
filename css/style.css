@@ -1,0 +1,122 @@
+body{ background-image: url(sixteen-miles-out-bKG2oQvBYVU-unsplash.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;}
+
+
+
+
+.father{margin: auto;
+    margin-top: 60px;
+border:hidden;
+border-radius: 30px;
+border-color: rgb(46, 62, 93);
+padding: 50px;
+width: 200px;
+background-color: rgba(106, 94, 77, 0.64);
+border-radius: 40px;
+ }
+
+
+
+
+img{width: 100px;
+height: 100px;
+border-radius: 50px;
+margin:auto;
+border: double;
+border-color: rgb(5, 1, 1);
+display:flex;
+padding: 2px;}
+
+
+h1{font-size:x-large;
+font-family:'Times New Roman', Times, serif;
+color: rgb(1, 17, 36);
+text-align:center;}
+
+p{ font-size:small;
+font-family: 'Times New Roman', Times, serif;
+color:rgb(1, 17, 36);
+text-align: center;
+margin-bottom: 20px;}
+
+.item1 { display: flex;
+justify-content: center;
+align-items: center;
+margin: 5px;
+border-width: 2px;
+border-style:hidden;
+border-radius: 30px;
+box-shadow: inset 5px 5px  10px rgb(231, 231, 237);
+}
+
+
+.item2{display: flex;
+justify-content: center;
+align-items: center;
+margin: 5px;
+border-width: 2px;
+border-style:hidden;
+border-radius: 30px;
+box-shadow: inset 5px 5px  10px rgb(231, 231, 237);
+}
+
+.name1{display: flex;
+justify-content: center;
+align-items: center;
+margin: 5px;
+border-width: 2px;
+border-style:hidden;
+border-radius: 30px;
+box-shadow: inset 5px 5px  10px rgb(231, 231, 237);}
+
+.name2{display: flex;
+justify-content: center;
+align-items: center;
+margin: 5px;
+border-width: 2px;
+border-style:hidden;
+border-radius: 30px;
+box-shadow: inset 5px 5px  10px rgb(231, 231, 237);}
+
+
+button{display: flex;
+justify-content: center;
+align-items: center;
+margin: auto;
+border-radius: 30px;
+border-style: hidden;
+width: 90px;
+height: 50px;
+padding: auto;
+font-size:medium;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background:fixed;
+background-color: rgba(231, 240, 243, 0.889);
+box-shadow: .5px .5px .4px rgba(237, 238, 239, 0.192);
+}
+
+input{text-align: center;
+border:none;
+outline-style:none;
+font-family: serif;
+font-size: medium;
+width: 90px;
+height: 30px;
+background: none;
+color: rgb(19, 7, 0);
+}
+
+i{color: rgb(24, 14, 1);}
+
+a{justify-content: center;
+color: rgb(251, 250, 248); margin:auto;
+margin-left: 30px;}
+
+.father:hover{ box-shadow: 30px 30px 20pc  rgb(238, 235, 233);
+background-color: rgba(168, 56, 0, 0.599);}
+
+button:hover{background-color: rgb(241, 242, 242);
+box-shadow: 2px 2px 5px rgb(204, 202, 202);
+cursor:pointer;}
